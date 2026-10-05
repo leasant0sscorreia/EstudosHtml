@@ -1,0 +1,26 @@
+body {
+    margin-left: 20% ;
+    margin-bottom: 8px;
+    margin-top: 40px;
+    
+    background-color: rgb(42, 42, 46);
+    
+}
+form{
+    background-color: rgb(60, 75, 88);
+    text-align: center;
+    font-size: 25px;
+    border-radius:20px;
+    padding: 4%;
+    margin-right: 20% ; 
+
+}
+.frase{
+    font-size: 16px;
+}
+.caixa{
+    background-color: rgb(81, 81, 97);
+}
+.input{
+    background-color: rgb(44, 13, 13);
+}
